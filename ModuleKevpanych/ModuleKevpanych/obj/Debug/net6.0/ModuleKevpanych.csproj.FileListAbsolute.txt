@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\bin\Debug\net6.0\ModuleKevpanych.exe
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\bin\Debug\net6.0\ModuleKevpanych.deps.json
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\bin\Debug\net6.0\ModuleKevpanych.runtimeconfig.json
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\bin\Debug\net6.0\ModuleKevpanych.dll
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\bin\Debug\net6.0\ModuleKevpanych.pdb
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.AssemblyInfo.cs
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.dll
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\refint\ModuleKevpanych.dll
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.pdb
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ModuleKevpanych.genruntimeconfig.cache
+C:\Users\Max\Desktop\ModuleKevpanych\ModuleKevpanych\obj\Debug\net6.0\ref\ModuleKevpanych.dll
